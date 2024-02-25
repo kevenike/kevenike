@@ -4,7 +4,7 @@ Nome: Keven
 Sobre mim:
 Olá! Sou Keven, um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Atualmente, estou empenhado em expandir meus conhecimentos e habilidades no vasto mundo da programação.
 
-Linguagens de Programação:
+Linguagens:
 
 Java
 Python
@@ -12,6 +12,7 @@ JavaScript
 HTML/CSS
 
 Tecnologias:
+
 Node.js
 React
 MongoDB
