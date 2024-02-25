@@ -15,7 +15,7 @@ Tecnologias:
 
 Node.js
 React
-MongoDB
+MySQL
 
 Contato:
 
