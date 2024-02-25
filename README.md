@@ -10,8 +10,8 @@ Java
 Python
 JavaScript
 HTML/CSS
-Tecnologias:
 
+Tecnologias:
 Node.js
 React
 MongoDB
