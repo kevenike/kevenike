@@ -1,24 +1,24 @@
+### Oii eu sou o Keven!
 
-Nome: Keven
+<div>
+    <img align="right" width="48%" alt="Octocat" src="https://github.com/mulliru/mulliru/blob/main/mulliru-octo.png" />
+    <blockquote>
+    Eu sou o Keven, e aqui está um pouco do que ja desenvolvi, fique a vontade para dar uma olhada
+    </blockquote>
+</div>
 
-Sobre mim:
-Olá! Sou Keven, um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Atualmente, estou empenhado em expandir meus conhecimentos e habilidades no vasto mundo da programação.
+<br>
 
-Linguagens:
+- 🎓 Cursando Análise e desenvolvimento de sistemas - FIP
 
-Java
-Python
-JavaScript
-HTML/CSS
+  <br>
 
-Tecnologias:
-
-Node.js
-React
-MySQL
-
-Contato:
-
-Email: kevenikepsilva@gmail.com
-LinkedIn: https://www.linkedin.com/in/keven-ike-p-silva/
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para trocar ideias sobre desenvolvimento de software!
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/keven-ike-p-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="mailto:kevenikepsilva@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
