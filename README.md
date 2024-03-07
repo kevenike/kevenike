@@ -1,7 +1,6 @@
 ### Oii eu sou o Keven!
 
 <div>
-    <img align="right" width="48%" alt="Octocat" src="https://github.com/mulliru/mulliru/blob/main/mulliru-octo.png" />
     <blockquote>
     Eu sou o Keven, e aqui está um pouco do que ja desenvolvi, fique a vontade para dar uma olhada
     </blockquote>
