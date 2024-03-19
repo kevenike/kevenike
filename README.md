@@ -8,7 +8,7 @@
 
 <br>
 
-- 🎓 Cursando Análise e desenvolvimento de sistemas - FIP
+- 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
 
   <br>
 
