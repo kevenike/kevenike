@@ -1,10 +1,5 @@
 ### Oii eu sou o Keven!
 
-<div>
-    <blockquote>
-    Eu sou o Keven, e aqui está um pouco do que ja desenvolvi, fique a vontade para dar uma olhada
-    </blockquote>
-</div>
 
 <br>
 
