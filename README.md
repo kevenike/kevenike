@@ -11,10 +11,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/keven-ike-p-silva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:kevenikepsilva@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
   </a>
 </div>
